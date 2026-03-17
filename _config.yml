@@ -1,5 +1,6 @@
 url: 'https://bee359.github.io'
 baseurl: '/serif_theme'
+theme: null
 permalink: pretty
 title: 'Jekyll Serif'
 
